@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I have been self teaching myself React JS, HTML, and CSS. I have a passion in learning and furthering my knowledge in the frontend developer community.
+I have been self teaching myself React JS, HTML, and CSS. I have a passion in learning and furthering my knowledge in the frontend  community.
 
 * 🌍  I'm based in Ashburn, Virginia
 * ✉️  You can contact me at [chris.mcneil7532@gmail.com](mailto:chris.mcneil7532@gmail.com)
