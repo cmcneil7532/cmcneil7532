@@ -8,9 +8,9 @@ I have been self teaching myself React JS, HTML, and CSS. I have a passion in le
 
 * 🌍  I'm based in Ashburn, Virginia
 * ✉️  You can contact me at [chris.mcneil7532@gmail.com](mailto:chris.mcneil7532@gmail.com)
-* 🧠  I'm learning Node JS, MongoDB, Express, React
+* 🧠  I'm learning Node JS, MongoDB, Express, and React
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I love to build Legos, only the cool ones
+* ⚡  I love to build Legos, but only the cool ones
 
 ### Skills
 
