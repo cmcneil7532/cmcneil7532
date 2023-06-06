@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christian McNeil
 ========================================================================================================================================
 
-Frontend Developer
+Front End Developer
 ------------------
 
 I have been self teaching myself React JS, HTML, and CSS. I have a passion in learning and furthering my knowledge in the frontend  community.
